@@ -1,0 +1,1152 @@
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ZbzDGXEwtGc_6_15.npy
+a plane is taking off
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/jbzaMtPYtl8_48_58.npy
+two men are hiding behind a bush and eyeing two women walking down the road
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/04Gt01vatkk_248_265.npy
+a man is mixing the egg in the bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/mFCf8lLXrUc_25_35.npy
+a man is slicing a garlic
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6eokrw6_bjU_1_9.npy
+a man is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-_hbPLsZvvo_323_328.npy
+a woman is making a omelet
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/nwk4m329bLw_2_10.npy
+a man is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/_txL575S_OA_13_23.npy
+two zebras are playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/8jP8CC2rKj4_80_88.npy
+a man is swimming
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/HBCJYhUjVf0_0_9.npy
+a cat is playing with a water
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/bQJQGoJF7_k_109_115.npy
+a man is adding water to dry pasta in a bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6t0BpjwYKco_46_53.npy
+a woman is cutting a vegetable
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/PuQVs2Ch1LY_5_15.npy
+a girl is playing a flute
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/9W6aQNcU3PA_92_103.npy
+a man is cutting the onions
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/DIebwNHGjm8_133_148.npy
+a dog is swimming
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/BAf3LXFUaGs_28_38.npy
+a man is beating up a man
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hcCLIzzB1jQ_1_7.npy
+a man is fighting with a group of men
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/swKrHEeOj9c_4_8.npy
+a man is playing with a cat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/AjZ-R3LFMzo_18_23.npy
+a man is riding a motorcycle in circles
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/m1NR0uNNs5Y_160_166.npy
+a man is peeling the skin off an onion
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/yyxtyCaEVqk_329_360.npy
+a man is picking the pepperoni off a pizza
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/msCidKHOh74_410_418.npy
+a man is riding a motorcycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/16iNk1hLJt4_37_40.npy
+a man is riding a bicycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/47D9-U8hn5I_11_16.npy
+a man is cutting a boot
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-vKO3uSG6Do_3_14.npy
+the horses raced toward the finish line
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/mF6ijhSrbBQ_32_40.npy
+a rat is hopping
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/rw9h_574HxE_229_236.npy
+a man and woman are walking in the grand
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/dfOuTx66bJU_34_39.npy
+a deer jumps over a chain link fence
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/giLxPCgLLqg_9_19.npy
+a man is catching a ball
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ZlX_Gy4HP2E_38_55.npy
+a woman is doing exercises
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/p69d3UBdpR8_98_109.npy
+a woman is putting on makeup
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6pcqRuFEMLs_46_52.npy
+a man is doing a stunt
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/_6OTzzK7t9Y_158_170.npy
+a boy is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/CHVhwcOg6y8_1_12.npy
+a man is styling his hair
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/EdrZtaBUXIo_25_29.npy
+a man is taking a fish
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/bQJQGoJF7_k_120_126.npy
+a man is adding water to dry pasta in a bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/1rECrfrdNTo_200_207.npy
+a man is cooking meat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/crfrKqFp0Zg_15_25.npy
+a man is drawing a picture
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Pr5LQq42l4M_12_17.npy
+a man is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/c75SIlAjfjg_6_14.npy
+a group of girls are dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/HqbVbPvlDoM_0_11.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/V--abChiVVc_30_40.npy
+a man is doing marriage
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/iCiGjZEV7VI_65_75.npy
+a woman is applying face makeup
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ZsrPKtx0qyg_7_15.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/_6OTzzK7t9Y_73_78.npy
+a man is peeling a potato
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/XtQdAPV2UZs_4_11.npy
+a man is driving a car
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/C_1cnNdMwxY_0_8.npy
+a man is holding a small black and white cat lying on the floor is singing and
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/2G9fkvBzzQE_10_20.npy
+a man is holding a small monkey in his hands
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xxHx6s_DbUo_32_36.npy
+a girl is shooting a gun
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/BnJUWwSx1kE_11_22.npy
+a rat is eating
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ggic669elLM_200_215.npy
+a man is singing and playing guitar onstage
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/KPPCwmU5OHQ_227_238.npy
+a man is pouring some oil into a pan
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Qtu-PXuvCx4_12_17.npy
+a baby is drinking water
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/_0nX-El-ySo_83_93.npy
+a man is showing a t shirt
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/D2FbgK_kkE8_121_151.npy
+a woman is poking a potato
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qPXynwa_2iM_15_25.npy
+a dog is running
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/F44bLc6t7-I_1_8.npy
+a woman is cooking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/e-j59PqJjSM_264_277.npy
+a man is adding sauce to his cooking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ArEWo8pERFc_17_21.npy
+a baby is sitting on a couch laughing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/9Wr48VFhZH8_45_50.npy
+a lion is playing with a man
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/9HTUcMjWB3g_134_138.npy
+a man is cutting the brinjal
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kEGmZDpZ_RE_248_293.npy
+a man is chopping garlic
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/sJC7E06IBXI_49_59.npy
+a person is riding a motorcycle down a highway
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/urNX3e1Wbc8_30_38.npy
+a dog is playing with himself
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_251_260.npy
+a woman is cooking a piece of fish
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/LYSPQqUvNO0_43_57.npy
+a dog is running
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/2YhDTpzxd3c_22_27.npy
+a car is running on the road
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/zBrC1GmA0Qg_26_33.npy
+a dog is playing with himself
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/45AGQSbodbU_5_15.npy
+a person is playing with a cat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/lvFYUmDSOvU_34_38.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/QGJy1K91gP4_90_100.npy
+a boy is running
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xxHx6s_DbUo_121_128.npy
+a baby is crying
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/r2PM0om2El8_18_25.npy
+the women are dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/bQJQGoJF7_k_162_169.npy
+a man is putting some chicken into a zip pouch
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/BVy9SQI5R68_0_7.npy
+a baby is smiling
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/QVSt5USMkMg_43_50.npy
+a man is taking a photograph
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xxHx6s_DbUo_202_207.npy
+a man is walking down a road
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/yd8jh9QYfEs_4_10.npy
+a car is coming on the road
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-_hbPLsZvvo_19_25.npy
+a person is slicing a cucumber
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/LacBy2NT3YQ_12_17.npy
+a lion is walking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/f9Won2JpOEU_60_80.npy
+a cat is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/g1Gldu1KS44_8_14.npy
+a man is playing with a lion
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/tIMDKdMnNYM_266_273.npy
+a woman is applying makeup to her face
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/J---aiyznGQ_0_6.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/idRc_KkInds_0_6.npy
+a man is playing with a small black and white dog
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/MoqC84sXu88_47_59.npy
+a man is sitting on the beach
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/fgWFxFg7-GU_10_26.npy
+a man is singing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/XNV7hKVu-Xg_40_47.npy
+a group of women are dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xgIIcPSh4EU_0_6.npy
+a man is parasailing a boat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/K6xy6C-Hsa0_2_28.npy
+a man is slicing an onion
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/8BL9qmFRbd4_6_13.npy
+a young man is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/AjZ-R3LFMzo_5_10.npy
+a man is riding a motorcycle on one wheel
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Zqmx-nXhLAg_0_10.npy
+a man is holding a rat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/pUPKsHTDZTo_70_85.npy
+a man is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/CL49s8bO6Fg_1_11.npy
+a cat is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/nc0fVlaTYEs_34_44.npy
+a man is peeling a banana
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/sBjr8UJOpsQ_181_195.npy
+a woman is doing some funny acts
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/v5CeGLEnVFE_0_8.npy
+a group of men are fighting
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/JsD6uEZsIsU_45_58.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qzQzooI4BqU_5_15.npy
+a man is walking with a woman on his back
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/RMznbCn5sQs_0_10.npy
+a lion is walking around its enclosure
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/KPPCwmU5OHQ_258_266.npy
+a man is adding something to a cooking bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/KeSQ5Rv7eH8_73_79.npy
+a baby is laughing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/mHv4iJ9Yr1g_10_16.npy
+a cat is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/HVR7KpItLfA_62_70.npy
+a man is speaking at a podium
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/98Alrg4pFXs_148_153.npy
+a man and a dog are playing a basketball
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Sq7Vt6KC9Yg_17_35.npy
+a man is putting sugar into his head
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xdhLQCYQ-nQ_50_63.npy
+a woman is cleaning a counter with a sponge
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/QzulzuWr0Zw_20_45.npy
+a man is rowing a canoe
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xBW_uR3kGr4_42_55.npy
+a man is getting out of bed
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/RX6NSOuCCAE_13_27.npy
+a man is cutting the grass
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/WTf5EgVY5uU_15_19.npy
+a woman is slicing meat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/EpMuCrbxE8A_107_115.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/YEmS8ZQIhTA_7_20.npy
+a man is kicking a soccer ball
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/q8t7iSGAKik_57_74.npy
+a man is kicking a soccer ball
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/bxDlC7YV5is_0_12.npy
+a man is being whipped with a belt by another man
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/FCjpuJaUec0_19_26.npy
+a puppy is playing with a ball
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/D9I1Z6O_mbw_141_146.npy
+a man is walking with a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Aa7yf9XtcJM_45_50.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/aN0WsBcja_E_0_15.npy
+a cat is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4Tn5S48sCwg_110_118.npy
+a man is playing with a frog
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/3_51FhosiVY_93_101.npy
+a man is reading a romantic email message on a computer
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4JVpbYmqfcI_5_19.npy
+a man is peeling a banana
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/g2IYQq7IkXc_124_132.npy
+a cat is playing with a cat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_192_196.npy
+a man is cutting a fish
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6GJ1DNOGDAM_223_233.npy
+a girl is doing her hair
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-8y1Q0rA3n8_95_102.npy
+a woman is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hEOGZoYSvT4_82_86.npy
+a boy is looking at a fallen tree
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Sg5rTYrkpnU_35_48.npy
+a man is being put into an abulance
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/NV6pq1W-I4g_7_16.npy
+a woman is applying face makeup
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_38_42.npy
+a woman is slicing kamakodo
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/_pj2Nutu5v8_1_8.npy
+a man is talking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/htry5uxX0-Y_45_52.npy
+a girl is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/yU5sxW9bErQ_0_17.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Z-An1QQ66f0_13_25.npy
+a man is falling down
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Jag7oTemldY_12_25.npy
+a man is walking with a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/emblM4a76jg_5_15.npy
+a woman is combing her hair
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/2L4oELbX8Ms_1_12.npy
+a man is reading a romantic email message on a woman
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-_hbPLsZvvo_49_55.npy
+a person is cutting a chunk of tofu into pieces
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/0hyZ__3YhZc_632_637.npy
+a man is eating
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/OKBLPpAPp9c_2_17.npy
+a man is cutting a paper
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/omIPdpxg--4_39_46.npy
+a man is being whipped with a monkey
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/3zrVqwV29V8_69_76.npy
+a man is reading a romantic email message on a computer
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/mbesJaS6vwg_187_195.npy
+a man is cooking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/lB1UPJ4leqs_1_6.npy
+a girl starts getting out of bed
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/f_CvW22Eauc_16_23.npy
+a person riding a bike downhill
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/D9I1Z6O_mbw_112_119.npy
+a man and woman are riding a motorcycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/iTA0rWPE4nY_17_23.npy
+a young man is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/o4pL7FObqds_137_147.npy
+a woman is taking a shower
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/mmSQTI6gMNQ_15_21.npy
+a man is hiding behind a skateboard
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/8MVo7fje_oE_139_144.npy
+a man is draining pasta
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/C2rDp6FnbP0_10_17.npy
+a woman is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/iwpnUHFhjWc_84_94.npy
+a dog is playing with a kid
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/m1NR0uNNs5Y_57_64.npy
+a man is cutting the onions
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/sFExO_PW22s_10_18.npy
+a man is walking in the ocean
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-vg3vR86fu0_1_6.npy
+a car is running
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/pGsU4FekJQM_10_18.npy
+a white cat is trying flip
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/pGCRurvXQGM_45_56.npy
+a man is riding a motorcycle on a highway
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UDwvax7K57c_28_35.npy
+a man is scraping the scales off a fish with a bandsaw
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/O_NWtDShLeg_21_25.npy
+a man is walking down a street
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/EBWPZIjtnTM_1_6.npy
+a man is holding a girl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-DRy7rBg0IQ_31_37.npy
+a woman is rowing a boat in a water flooded locality
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UXs3eq68ZjE_498_504.npy
+a man is putting cinnamon on rice pudding
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/jZ8X8e7eRVk_24_27.npy
+a man is sitting on the room and wagging his back bear to the other
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/MqS82kBtUHQ_0_12.npy
+a baby is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/WTf5EgVY5uU_32_52.npy
+a woman is slicing some vegetables
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-_aaMGK6GGw_57_61.npy
+a man is holding a woman
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ZbtpcGi2DWY_56_62.npy
+a polar bear is sliding on the ground
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ngHDYzhDBk4_24_29.npy
+a man is eating too much
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/LqPIBHAmt4E_22_30.npy
+a man is playing guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Goj131_GxYs_2_7.npy
+a person is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/D1tTBncIsm8_248_254.npy
+a man is putting a small fish on the ground
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/M4It3DrhbE0_13_22.npy
+a puppy is playing with a ball
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/TF6LNmwDr_0_2_10.npy
+a cat is eating a piece of watermelon
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6ZZkO14S7GY_5_15.npy
+a girl is playing a flute
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qDjtN7xxNr4_44_51.npy
+the men are doing a martial arts demonstration
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/haJn6k5zVnE_1_23.npy
+a man is playing a piano
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/81fABEiwcIM_31_45.npy
+a man is playing guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/7xNG7qGY9rw_14_29.npy
+a woman is cooking some shrimps
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/3lBHYoI5V8s_30_45.npy
+a man is cooking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/b71bI0rH1g8_75_90.npy
+a man is cutting a fish
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/urXDqw3S34I_12_17.npy
+a man is riding a motorcycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/i2sRHf9m5KM_28_42.npy
+a man is adding oil to a pan
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/zWVQImPY2Cc_27_44.npy
+a man is mixing something in a bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/zTn-nNj5Bng_61_77.npy
+a man is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/W_iR4YVCxUY_8_15.npy
+a man is holding a small monkey in his hand
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/dMH0bHeiRNg_3_14.npy
+a girl is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/HxRK-WqZ5Gk_30_50.npy
+a man is playing golf
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/SFFfhAUEoj0_10_16.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/u9prcUCHlqM_235_241.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/R24RktgUi-s_24_28.npy
+a man is throwing a ball into the basket in a basket ball court
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/5AEldiUP408_65_71.npy
+a man is riding a bike on a fence
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/zv2RIbUsnSw_159_162.npy
+a man is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/RQYLGNbal2c_5_10.npy
+a man is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/VahnQw2gTQY_288_293.npy
+a man is cutting an onion
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Ya-MkA187c8_36_45.npy
+a man is falling down from the stairs
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/s-dSFyz_5Ww_31_41.npy
+a man is holding a cat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/dq7agmFWkq0_5_9.npy
+a cat is climbing on a wall
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ejgwQqCHN1E_7_12.npy
+a man is reading a romantic email message on a computer
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/x1i0UOssll8_141_151.npy
+a man is parasailing a boat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/0lh_UWF9ZP4_174_178.npy
+a woman is peeling the skin off of a small onion
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/He7Ge7Sogrk_47_70.npy
+a man is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/WTf5EgVY5uU_33_39.npy
+a person is slicing a scallop
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4yf2WP6K1gQ_28_32.npy
+a woman is slipping down a paper towel
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/DlOhXqKcLXk_7_14.npy
+a girl is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/j4dMnAPZu70_12_17.npy
+a panda slides down a slide into the snow
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/gqxpGOHUH9k_113_119.npy
+a group of people are dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/nCtZFOYAlvQ_44_49.npy
+a man is sitting on the boat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/c2a0GcoJAjw_52_73.npy
+a man is holding a frog
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_154_165.npy
+a woman is peeling a shrimp
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ACOmKiJDkA4_20_26.npy
+a man is preparing the rice
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hFERWnoc-nU_0_12.npy
+a man is taking a photograph
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_152_164.npy
+a woman is peeling a shrimp
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/QsvBYKaCXEc_5_15.npy
+a man is showing some event
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/s8utHZYTNTs_35_42.npy
+a man is cutting a paper
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/PD6eQY7yCfw_32_37.npy
+a man is running and jumping with an umbrella
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Hd-NeIhbYGc_28_31.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6BrHPMdyVtU_1_10.npy
+a boy is playing a piano
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/MrQd1zUVRUM_103_110.npy
+a man is holding a girl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/s0hwEUC5emA_127_132.npy
+a man is talking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/30GeJHYoerk_63_75.npy
+a man is cutting a paper
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Xp6rxW4hFFo_32_40.npy
+a woman is putting on makeup
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6t0BpjwYKco_80_84.npy
+a woman is cooking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/2YhDTpzxd3c_45_49.npy
+a man is beating another man with a whip
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UqBafx3iRKw_22_29.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/D1tTBncIsm8_198_205.npy
+a man is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/MW21lp833Vo_143_149.npy
+a man is eating a banana
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UbmZAe5u5FI_60_70.npy
+a woman is cutting a vegetable
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6gQu8PWhFoQ_30_35.npy
+a man is riding a motorcycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/WFNXwor69-U_33_40.npy
+a man is playing with the cat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/nrZyPuRd5pU_85_92.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/dJCtOz32dnw_40_60.npy
+a man is hugging a woman
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/yNy9jTeolUk_8_12.npy
+a man is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/MdOAr_4FJvc_5_15.npy
+a man is playing the piano
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/lrZxpneS6Gk_0_12.npy
+a man is riding a skateboard
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/L6dEUQ6WiHY_136_142.npy
+a man is playing with a cat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/OaBmAg6gz30_4_18.npy
+a man is cutting up a green pepper
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ACOmKiJDkA4_175_182.npy
+a person is cutting the top off a piece of food
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4VLrxtf7Z_8_0_7.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/BtQEY2SL4g4_126_132.npy
+a man is riding a bicycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qIXs7fUoLIg_1_11.npy
+a baby is laughing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/GMuijLIJH-U_1_10.npy
+a group of people are dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ZK4W-2ifl6I_1_28.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Je3V7U5Ctj4_760_765.npy
+a woman is cooking meat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/25NmudB2fqg_0_7.npy
+a man is holding a woman
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/e-sf-hyrkTs_20_35.npy
+a man is getting out of bed
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_147_153.npy
+a woman is peeling a shrimp
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qvSxiVV7jhw_0_15.npy
+a dog is playing with a water jet
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/NoCgvH4xZHo_56_63.npy
+a woman is cooking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/lm0z7eLsbbw_9_23.npy
+a man is holding a rat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4PayIIIOeIs_230_238.npy
+a man is shooting a gun
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/fqly5kyO2MI_10_20.npy
+a cheetah is chasing prey
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/0hyZ__3YhZc_575_580.npy
+a man is putting the food into an oven
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/OBLIjdMIIt8_54_61.npy
+a man is sitting in a car
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/dtn0PuxgfkM_0_5.npy
+a man is climbing a rope
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/HV12kTtdTT4_5_14.npy
+a man is playing with the cat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/q-JHcsqJXWY_0_8.npy
+a panda is laying down
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/gIvetX_oXeI_85_90.npy
+a man is doing some trick with play cards
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/3doK4FQM5-k_46_57.npy
+a man is driving a car
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hM3jzlyNIpc_0_10.npy
+a person is playing with a rabbit
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/k8l4ETsylVY_9_18.npy
+a dog is sliding into water
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Z3rj9LbCOaM_0_12.npy
+a dog is running
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kKGehSw5ht8_39_45.npy
+two women are dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ge7OOILJA6U_20_25.npy
+a man is singing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/H9Oplnr8WcE_24_34.npy
+a woman is swimming
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/dhxE9CNeVeY_0_12.npy
+a woman is holding a child
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/IhzXQ-gc9IQ_125_129.npy
+a man is taking a dead deer
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-4wsuPCjDBc_5_15.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/CquJjlNuotg_147_155.npy
+a man is mixing something in a bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ul9Xvjt83eI_111_120.npy
+a man is eating a banana
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/9uDPqigcnzw_36_46.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/pptYu3YQnxY_160_170.npy
+a man is taking the one off of a red pizza
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/eZLxohGP4IE_147_158.npy
+a man is cutting a piece of carpet
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/fJr2evLANsE_0_10.npy
+a cat is playing with a large white dog
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ogcqFaNbah4_475_487.npy
+a group of women are dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_25_32.npy
+a woman is chopping cilantro
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UdcObAQ5OOM_15_30.npy
+a man is driving a car
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Pgm-mOQu2MM_48_62.npy
+two men are boxing in a boxing ring
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xtbsD3PUua4_84_94.npy
+a woman is beating eggs with a pair of chop sticks
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/VLBsAPZ2DDE_58_64.npy
+a girl is doing tricks with a bicycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/lv8d_qLLqsk_1_20.npy
+a man is playing guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/DvYN53KBDr0_51_62.npy
+a man is riding a motorcycle and doing tricks
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Zoz0HcCB1vU_0_10.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xpOYXbMDDBY_1_20.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/5YJaS2Eswg0_22_26.npy
+a man is riding a motorcycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/0I4VKj4d0WI_24_40.npy
+a man is eating a lot of food
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Ylb4pnW-jP4_102_113.npy
+a man is falling down stairs
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/nYwbAb0QvBE_195_210.npy
+a man is cooking hamburger meat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/5HAf_INrFy0_3_25.npy
+a girl is carrying a large bag of cans
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/PslVHtXc7Tg_8_14.npy
+a car is coming up over a road
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/b4mJ3AQc-ag_30_34.npy
+a man is cutting some kind of meat for the meal
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UXs3eq68ZjE_382_387.npy
+a person is pouring a water in the pan
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4kQnrKvOTNg_15_24.npy
+a puppy is playing on the floor
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-_hbPLsZvvo_172_179.npy
+a man cooking his kichen
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/inLBPVG8oEU_18_24.npy
+a woman is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/5JSbxHECb-I_97_110.npy
+a person is cooking the katsu curry
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Ly5D0z9gKtc_15_20.npy
+a man is talking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/2YhDTpzxd3c_102_105.npy
+a man is playing with fire
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/VahnQw2gTQY_203_210.npy
+a man is holding a hamburger bun
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/C9vRgZDxTv4_26_33.npy
+a man and woman are riding a motorcycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/sT5Bzt9w354_11_34.npy
+a person is drawing a picture
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/SJZFNwfcSOw_3_18.npy
+a man is playing a piano
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/IEQyCcageGg_99_126.npy
+a man is kicking a soccer ball
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/0lh_UWF9ZP4_183_190.npy
+a woman is slicing a onion
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/GWQTAe64m-0_160_166.npy
+a woman is eating a piece of chicken
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/shPymuahrsc_5_12.npy
+two dogs are playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Li3umATsU0E_1_5.npy
+a cat is eating corn on the cobb
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Vn0Xv0fb1z4_18_30.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/sv5YlZspb30_10_20.npy
+a woman is riding a horse
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/WPG-BIWOrG4_635_640.npy
+a man is cutting a fish
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/JMUAylpXzG0_45_62.npy
+a man is cutting a piece of carpet
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/p3J3TAdKAYQ_0_10.npy
+a cat is playing with a roomba
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/2YhDTpzxd3c_174_180.npy
+a man is climbing a rope
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/e996zZ0uV_A_196_204.npy
+a young man is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/fY0lZTWlBAg_470_485.npy
+a man is doing a trick
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/9VG7Elw9TDA_85_91.npy
+a woman is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/5EXVeP6R3yc_105_108.npy
+a man is walking with a fish
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qOiN__I1-Zo_2_8.npy
+a dog is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UXs3eq68ZjE_320_325.npy
+someone is stirring rice on a pot
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/muI1BFsdbdo_33_45.npy
+a group of men are playing soccer on the beach
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/pzq5fPfsPZg_145_160.npy
+a baby is walking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Je3V7U5Ctj4_504_511.npy
+a man is spreading butter on a tortilla
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qew09qQgMAg_22_27.npy
+a man is falling down from the stairs
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Tm1HjqK0ABg_9_15.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/vpR0L3sIvoo_15_49.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/8MVo7fje_oE_153_158.npy
+a man is pouring water from a plastic container
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/m1NR0uNNs5Y_123_129.npy
+a person is cutting vegetables
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qeKX-N1nKiM_0_5.npy
+a man is cooking something
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/jmoT2we_rqo_0_5.npy
+a man is throwing a basketball into a basketball hoop
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/PqvKNqkGI9o_47_52.npy
+a man is walking down the stairs
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/V6Fxclwdfxc_1_11.npy
+a man is playing with a frog
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/WPG-BIWOrG4_755_761.npy
+a man is making the pizza
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/1dYpcVv6n3Y_0_18.npy
+a baby is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hksxtbcS780_7_14.npy
+a panda is laying down
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hW8TKz2Aea4_40_50.npy
+a man is taking a shower
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/IWhrWLOAin0_1_4.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/JnNe61UZsdM_78_88.npy
+a woman is dancing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/UbmZAe5u5FI_132_141.npy
+a man is cutting a piece of meat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/bxjFqtfJlMs_18_27.npy
+a bird is playing with a water
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/X56XkGFe7OY_47_61.npy
+a badger is digging
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/OxL9z2BzBnk_0_19.npy
+a cat is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Vg1jyL3cr60_163_186.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/gbW9f8xydks_0_10.npy
+a puppy is playing in a mirror
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4PcL6-mjRNk_11_18.npy
+a dog is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/HYbEf-JKZnA_13_26.npy
+a man is jumping
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hxZ-5wELSJM_0_12.npy
+a man is doing a trick shot
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kWLNZzuo3do_167_181.npy
+a woman is mixing ingredients in a bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/9Q0JfdP36kI_19_27.npy
+a person is cutting fat from a piece of meat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/c2MwqFYVE7A_40_45.npy
+a man is playing with a toy
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/64Xn9edeWRA_0_11.npy
+a man is sliding down a railing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/-_hbPLsZvvo_269_275.npy
+a woman is putting flour on a piece of fish
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/EPgQ9QwbsLE_16_23.npy
+a man is cutting the garlic
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/e996zZ0uV_A_68_72.npy
+a man is riding a motorcycle
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hJFBXHtxKIc_163_168.npy
+a man is pouring oil into a pan
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/tn1d5DmdMqY_15_28.npy
+a man is playing the guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/DN7jwyL1Xgg_1_19.npy
+a man is parasailing a boat
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Je3V7U5Ctj4_956_961.npy
+a man is putting sauce on chicken
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Ms3QdGIzltU_10_20.npy
+a hamster is eating sunflower seeds
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/6mYnZbIwcNo_10_16.npy
+a man is playing a game on his laptop
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/JhCvLmf9yr0_46_50.npy
+a woman is adding a cream and yellow food in a bowl
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/CgWYN5e9K10_30_62.npy
+a cat is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/0wutCy2ZGOQ_4_10.npy
+a man is running and falls down
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/N5wsl86P37Q_1_15.npy
+a man is playing a piano
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qeKX-N1nKiM_74_77.npy
+a person is cutting a brinjal into pieces
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/eZLxohGP4IE_190_201.npy
+a man is doing a weight exercise
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/f9_bP219ehQ_63_70.npy
+a man is eating a lot of food
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/Uc63MFVwfrs_355_372.npy
+a man is cutting a potato into eighths
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/O9yLRzpPp44_167_190.npy
+a girl is making a call with angry
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/4yYapi-5QYQ_33_57.npy
+a man is doing some trick with play cards
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/0M-PyX2DbZc_25_31.npy
+a man is playing a guitar
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/_OBlgSz8sSM_15_32.npy
+a baby is laughing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/wn9rDTZj-m4_8_18.npy
+a man is holding a colored man on his back
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/fMFvOgb4k6E_35_43.npy
+a girl is flying a kite
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/xGdoi3W3Z4o_2_40.npy
+a dog is playing
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/kEGmZDpZ_RE_352_370.npy
+a man is slicing a vegetable
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/yBK02O1Oewc_20_35.npy
+a man is playing the piano
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/gGDtPJzh_0s_30_45.npy
+a person is slicing a potato
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/j2Dhf-xFUxU_20_29.npy
+a man is slicing a piece of carrot
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/zv2RIbUsnSw_335_341.npy
+a man is talking
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/VahnQw2gTQY_298_305.npy
+a person is cutting a sock
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/hJFBXHtxKIc_286_291.npy
+a man is eating a food
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/ZDoy9S82ETA_5_15.npy
+a car is running on a road
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/HM-ZDoRWiH4_0_5.npy
+a woman is taking a shower
+
+/content/gdrive/My Drive/Graduation Project/Different Feature Extractor Models/graduationFeatures/msvd1/shortPreprocessWithAmrFix/VGG-16(4096)/test/qIk_Dz5XE5E_104_109.npy
+a woman is climbing a cliff
+
